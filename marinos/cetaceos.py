@@ -8,3 +8,6 @@ class Delfin(Animal):
 
 class Orca(cetaceo):
     pass
+
+class BallenaAzul(cetaceo):
+    pass
